@@ -1,0 +1,3 @@
+applications:
+- name: pipeline-webhook-proxy
+  memory: 64M
